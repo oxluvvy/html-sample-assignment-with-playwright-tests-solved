@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/code/feb code"
+		},
+		{
+			"name": "html-sample-assignment-with-playwright-tests-solved",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html-sample-assignment-with-playwright-tests-solved"
+	}
+}
